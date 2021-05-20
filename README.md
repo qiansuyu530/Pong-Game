@@ -1,2 +1,3 @@
 # Pong-Game
-A Pong game
+A Java Pong Game
+
